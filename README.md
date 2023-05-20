@@ -20,7 +20,7 @@ Sebelum melakukan Log In di sebuah aplikasi yang baru kita gunakan, biasanya kit
 
 ![menambahkan_gambar](PICT/login.png)
 
-Setelah memastikan bahwa data yang dimasukan sudah sesuai dengan yang didaftarkan sebelumnya. Selanjutnya, tekanlah tombol Log In dan kemudian kalian akan dibawa ke sebuah halaman isi seperti dibawah ini.
+Setelah memastikan bahwa data yang dimasukan sudah sesuai dengan yang didaftarkan sebelumnya. Selanjutnya, tekanlah tombol Log In dan kemudian jika berhasil kalian akan dibawa ke sebuah halaman isi seperti dibawah ini.
 
 
 ### **3. NOTE PAGE**

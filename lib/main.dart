@@ -127,14 +127,16 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('HELLO..'),
+        title: Text('ULANGAN TENGAH SEMESTER'),
+        backgroundColor: const Color.fromARGB(255, 252, 162, 162),
       ),
       body: Center(
         child: Text(
-          'SAYA, DIYAN ARUM MAHESWARI (312010133)',
+          'DIYAN ARUM MAHESWARI (312010133)',
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
+            backgroundColor:  Color.fromARGB(255, 244, 231, 182)
           ),
           
         ),
